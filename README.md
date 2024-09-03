@@ -14,9 +14,14 @@
 
 ## 🚀 Demo
 
+<div align="center">
+  <video width="600" height="400" controls autoplay>
+    <source src="[path_to_your_video.mp4](https://github.com/user-attachments/assets/c926e221-3da8-470b-9adc-f4a6b2fa3cd5)" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
-https://github.com/user-attachments/assets/c926e221-3da8-470b-9adc-f4a6b2fa3cd5
 
 
 
