@@ -16,6 +16,10 @@
 
 
 
+https://github.com/user-attachments/assets/c926e221-3da8-470b-9adc-f4a6b2fa3cd5
+
+
+
 ## 🛠️ Installation
 
 To run the project locally, follow these steps:
